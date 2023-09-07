@@ -5,6 +5,7 @@
   width: 90%;
   align-self: center;  
   box-shadow: 0 3px 13px 1px rgb(0,0,0/9%);
+  margin-top: 2rem;
 }
 
 .contenedor-text-comentario{
@@ -14,7 +15,7 @@
     align-items: center;
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+    margin-left: 2rem;}
 
 .nombre-pais-comentario{
     font-size: 1.3rem;
