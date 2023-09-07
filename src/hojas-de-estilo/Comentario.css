@@ -1,0 +1,33 @@
+.contenedor-comentarios{
+  background-color: rgb(10, 10, 35);
+  display: flex;
+  padding-right: 2rem;
+  width: 90%;
+  align-self: center;  
+  box-shadow: 0 3px 13px 1px rgb(0,0,0/9%);
+}
+
+.contenedor-text-comentario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nombre-pais-comentario{
+    font-size: 1.3rem;
+}
+
+.cargo-comentario{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-top: 30px;
+}
+.texto-comentario{
+    font-size: 1.1rem;
+    text-align: justify;
+    margin-top: 2rem;
+}
+

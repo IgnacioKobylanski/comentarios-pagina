@@ -1,4 +1,5 @@
 import React from "react";
+import "../hojas-de-estilo/Comentario.css";
 
 function Comentario() {
   return (
@@ -14,5 +15,4 @@ function Comentario() {
     </div>
   );
 }
-
 export default Comentario;
